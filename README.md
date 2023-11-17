@@ -1,5 +1,5 @@
 # Titanic Dataset Analysis
-
+![Project Image](https://example.com/path/to/your/image.jpg)
 
 ### This project involves analyzing the Titanic dataset, which is often used as an introduction to Kaggle competitions. The primary goal is to predict survival on the Titanic based on passenger characteristics. For this exercise, the task is to answer specific questions about the dataset using code.
 ## Questions to Answer
